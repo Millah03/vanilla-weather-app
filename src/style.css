@@ -1,3 +1,17 @@
+.weather-app {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 1px solid #00aaa0;
+  border-radius: 20px;
+}
+
 h1 {
-  color: blue;
+  color: #d55b3e;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+li {
+  list-style: none;
 }
