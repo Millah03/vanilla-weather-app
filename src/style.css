@@ -32,15 +32,15 @@ li {
 .weather-app {
   padding: 20px;
   border: 1px solid #00aaa0;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .overview {
-  margin: 20px;
+  margin-bottom: 20px;
 }
 .weather-temperature img {
   margin-right: 5px;
-  width: 60px;
-  height: 60px;
+  width: 64px;
+  height: 64px;
 }
 .weather-temperature strong {
   color: #00aaa0;
