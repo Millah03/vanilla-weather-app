@@ -38,6 +38,7 @@ function displayTemperature(response) {
 }
 
 let apiKey = `914ab27dc24887be9302a219997db06b`;
-let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=Riverside&appid=${apiKey}&units=imperial`;
+let city = "Riverside";
+let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=imperial`;
 
 axios.get(apiUrl).then(displayTemperature);
