@@ -23,6 +23,7 @@ li {
   padding: 0;
   line-height: 19px;
   color: #d55b3e;
+  text-transform: capitalize;
 }
 
 .weather-app-wrapper {
