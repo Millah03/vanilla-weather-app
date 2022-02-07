@@ -4,7 +4,6 @@ body {
 
 h1 {
   color: #d55b3e;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 24px;
   font-weight: 100px;
   line-height: 28px;
@@ -88,4 +87,13 @@ a {
 .weather-forecast-temperature {
   font-size: 15px;
   color: #00aaa0;
+}
+
+.btn-primary {
+  background-color: #00aaa0;
+  border-color: #00aaa0;
+}
+
+.form-control {
+  border: 1px solid #00aaa0;
 }
