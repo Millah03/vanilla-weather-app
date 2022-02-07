@@ -97,3 +97,7 @@ a {
 .form-control {
   border: 1px solid #00aaa0;
 }
+
+.float-left {
+  float: left;
+}
